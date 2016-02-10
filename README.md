@@ -1,1 +1,1 @@
-This is a simple list using JS , HTMl and CSS.
+This is a simple list using JS , HTML and CSS.
